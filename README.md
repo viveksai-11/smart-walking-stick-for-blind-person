@@ -140,3 +140,5 @@ This project is open-source and free to use for educational purposes.
 - Inspired by assistive device needs for visually impaired individuals.
 - Special thanks to Arduino community tutorials and documentation.
 
+## Contributions
+Vivek Sai Guntha -	[Github Profile](https://www.arduino.cc/en/software).
